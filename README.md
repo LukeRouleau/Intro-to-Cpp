@@ -11,3 +11,5 @@ Lab 2 - Basic IO & Error Throwing
 Lab 3 - Array Based Stack & Queue Template Classes with "Big Three"
   Create Array-Based (dynamically allocated) Stack and Queue template class data structures. Use the "Big Three" since the memory is dynamically allocated.
   
+Lab 4 - CSV File IO Database
+  Use File IO to write and read from CSV files to create a database.
