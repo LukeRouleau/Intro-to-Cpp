@@ -9,7 +9,5 @@ Lab 2 - Basic IO & Error Throwing
   Create a basic CMD line app and throw errors for invalid inputs
   
 Lab 3 - Array Based Stack & Queue Template Classes with "Big Three"
-  Your ABS and ABQ will be template classes, and thus will be able to hold any data type.
-  Because these classes will be using dynamic memory, you must be sure to define The Big Three: Copy Constructor, Copy Assignment Operator, Destructor
-  Data will be stored using a dynamically allocated array (hence the array-based stack and queue).
+  Create Array-Based (dynamically allocated) Stack and Queue template class data structures. Use the "Big Three" since the memory is dynamically allocated.
   
