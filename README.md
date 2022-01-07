@@ -1,7 +1,7 @@
 # Intro-to-Cpp
 In the first year of my learning to program, I transitioned from Java to learning C++. These are some of my introductory exercises and projects.
 
-## Labs
+## [Labs](./Labs)
 
 ### Lab 1 - Basic OOP
   Create a "Car Dealership" database using basic OOP in C++
