@@ -3,7 +3,7 @@ In the first year of my learning to program, I transitioned from Java to learnin
 
 ## [Labs](./Labs)
 
-### [Lab 1 - Basic OOP](./Labs/Lab1 - Basic OOP)
+### [Lab 1 - Basic OOP](https://github.com/LukeRouleau/Intro-to-Cpp/tree/main/Labs/Lab1%20-%20Basic%20OOP)
   Create a "Car Dealership" database using basic OOP in C++
   
 ### [Lab 2 - Basic IO & Error Throwing](./Labs/Lab2 - Basic IO & Errors) 
